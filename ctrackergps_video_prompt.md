@@ -1,6 +1,6 @@
 # CTrackerGPS – Video publicitario 10 s (9:16)
 
-**Uso:** subir `astronauta_ctrackergps.png` (imagen de referencia) como *first frame / image-to-video* y pegar el prompt.
+**Uso:** subir `astronauta_ctrackergps.webp` (imagen de referencia) como *first frame / image-to-video* y pegar el prompt.
 Herramientas recomendadas: Veo 3 / Veo 3.1 (genera voz y música), Kling 2.x o Hailuo (si no generan audio, ver "Plan B").
 
 ## Prompt maestro (inglés, rinde mejor en los modelos)
